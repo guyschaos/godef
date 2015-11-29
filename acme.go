@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"strings"
 
-	"9fans.net/go/acme"
+	"github.com/9fans/go/acme"
 )
 
 type acmeFile struct {
